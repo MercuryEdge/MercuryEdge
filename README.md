@@ -8,21 +8,17 @@ Welcome to **MercuryEdge's** Github Home
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=falt&logo=github&logoColor=white)](https://github.com/MercuryEdge)
 ![Profile views](https://views.whatilearened.today/views/github/MercuryEdge/views.svg)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mercuryedge@outlook.com)
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007acc?style=flat&logo=Visual%20Studio%20Code)
 ![IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000?style=flat&logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-
 ![Html](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=Apache-Hadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-fdee21?style=flat&logo=Apache-Hive&logoColor=black)
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-
 ![Synology](https://img.shields.io/badge/-Synology-black?style=flat&logo=Synology&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=Docker&logoColor=white)
 <!--
