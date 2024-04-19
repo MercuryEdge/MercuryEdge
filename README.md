@@ -27,6 +27,7 @@ Welcome to **MercuryEdge's** Github Home
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=MercuryEdge&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ffbf69,ffffff,ffbf69" alt="MercuryEdge's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mercuryedge&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,ffbf69,ffffff,ffbf69" alt="Most Used Languages">
 
+<!--
 #### Top Repositories
 
 <a href="https://github.com/MercuryEdge/aircraft-main">
@@ -35,3 +36,4 @@ Welcome to **MercuryEdge's** Github Home
 <a href="https://github.com/MercuryEdge/aircraft-boot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MercuryEdge&repo=aircraft-boot&theme=buefy" />
 </a>
+-->
