@@ -30,7 +30,7 @@ Welcome to **MercuryEdge's** Github Home
 #### Top Repositories
 
 <a href="https://github.com/MercuryEdge/aircraft-main">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MercuryEdge&repo=Aircraft-main&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MercuryEdge&repo=aircraft-main&theme=buefy" />
 </a>
 <a href="https://github.com/MercuryEdge/aircraft-boot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MercuryEdge&repo=aircraft-boot&theme=buefy" />
